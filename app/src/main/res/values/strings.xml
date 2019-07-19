@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MarvelApp</string>
+    <string name="not_user">Não cadastro</string>
+    <string name="not_email">Verificar e-mail</string>
+    <string name="not_password">Verificar senha</string>
+    <string name="invalid_email">E-mail não válido</string>
+</resources>
